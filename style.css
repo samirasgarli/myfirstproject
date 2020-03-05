@@ -1,0 +1,35 @@
+section .head{
+    text-align:center;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: xx-large;
+    color:black;
+}
+section .header{
+    display: ;
+    text-align:center ;
+}
+section .header .products {
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    font-family: cursive;
+  }
+  section .header .products img {
+    border: 2px solid;
+    border: none;
+  }
+  
+  section .header .products .button {
+    width: 110px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    
+    background-color:saddlebrown;
+    color: white;
+  }
+  section .foot {
+    margin-left: 20px;
+    margin-top: 30px;
+  }
